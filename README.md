@@ -8,3 +8,4 @@
    53  systemctl status jenkins
    54  hostnamectl
    55  curl ifconfig.me
+changew th port in AWS===8080
